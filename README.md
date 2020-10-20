@@ -2,7 +2,7 @@
 * Laptop Store Template Website.
 
 ## Deployed at:
-https://fsalviati.github.io/Candy_Museum/
+https://fsalviati.github.io/Laptop_Store/
 <br />
 
 ## Screenshot
